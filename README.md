@@ -1,4 +1,4 @@
-# AI Email Assistant
+<img width="1728" height="932" alt="Screenshot 2025-09-06 at 10 13 53 AM" src="https://github.com/user-attachments/assets/b0f8837e-7723-4825-a12a-10fbeb5b707f" /><img width="1728" height="1037" alt="Screenshot 2025-09-06 at 10 11 40 AM" src="https://github.com/user-attachments/assets/57b7f978-c08a-4013-855c-94df74eae4d5" /># AI Email Assistant
 
 An intelligent email classification and response generation system built with Streamlit and Llama.
 
@@ -110,3 +110,13 @@ The `sample_emails.csv` file contains 20 sample emails covering various scenario
 - Multi-language support
 - Email thread analysis
 - Automated response scheduling
+
+
+## Output Screenshorts
+<img width="1728" height="1037" alt="Screenshot 2025-09-06 at 10 11 40 AM" src="https://github.com/user-attachments/assets/5ff9b197-9ce4-4b9b-82da-b532bdb151f4" />
+
+<img width="1728" height="932" alt="Screenshot 2025-09-06 at 10 13 53 AM" src="https://github.com/user-attachments/assets/a22c419f-d5db-43f7-94b0-97198997791e" />
+
+
+
+
