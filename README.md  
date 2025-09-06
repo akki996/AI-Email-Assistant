@@ -1,0 +1,23 @@
+# AI-Powered Email Communication Assistant
+
+## 🚀 Overview
+This project is an **AI-powered assistant** that automates support email handling:
+- Fetches and filters support-related emails.
+- Analyzes **sentiment** and **priority**.
+- Extracts customer **requirements**.
+- Generates **context-aware AI responses**.
+- Displays everything on an **interactive Streamlit dashboard**.
+
+## 🛠️ Tech Stack
+- **Python**
+- **Streamlit** (UI Dashboard)
+- **Transformers (Hugging Face)** for summarization
+- **TextBlob** for sentiment analysis
+- **Pandas** + **Matplotlib** for data handling & analytics
+
+## 📂 How to Run
+```bash
+git clone <repo-url>
+cd ai_email_assistant
+pip install -r requirements.txt
+streamlit run app.py
